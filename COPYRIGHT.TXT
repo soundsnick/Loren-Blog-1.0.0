@@ -1,0 +1,4 @@
+ALL RIGHTS RESERVED © 2017 Loren Inc.
+LorenBlog version 1.0.0
+Create your own blog web-page on LorenBlog
+Создай свой личный блог на движке LorenBlog
